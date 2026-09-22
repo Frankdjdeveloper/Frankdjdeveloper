@@ -7,7 +7,7 @@ Sejam bem vindos! Estou iniciando no mundo da programação criando projetos em:
 - <img src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <br>
   Aprendendo também Git e GitHub. Estou na transição da área de suporte e infra para a área de programação.
-Atualmente estou em um provedor de internet e ainda quero e busco oportunidade na programação, e estou me dedicando aos estudos já realizei o curso de Front-end na DevClub e agora estou no Full-Stack para daqui pra frente ter oportunidades na área e crescer.
+Atualmente estou em um provedor de internet e ainda quero e busco oportunidade na programação. Estou me dedicando aos estudos já realizei o curso de Front-end na DevClub e agora estou no Full-Stack, para daqui pra frente ter oportunidades na área e crescer.
 
 Conecte-se comigo:
 
